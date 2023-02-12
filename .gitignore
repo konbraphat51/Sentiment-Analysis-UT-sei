@@ -1,0 +1,4 @@
+*.txt
+!Sentiment-Teacher/*.txt
+*.tsv
+*.model
